@@ -48,7 +48,7 @@ citation, Laos' Labour Law citation, and the Law on Income Tax
   figures -- an AUTHORITY-JURISDICTION ROUTING check between two
   LEGISLATIVE bodies, grep-verified absent fleet-wide, a genuinely
   different shape from every other iso3166 sibling.
-- `src/statute/facts.cljc` -- general-law catalog: the Law on Investment
+- `src/statute/facts.cljk` -- general-law catalog: the Law on Investment
   Promotion (Amended) itself (also catalogued here as an ongoing
   compliance statute), the Decision on Enterprise Registration
   No..0023/MOIC.DERM (9 January 2019), the Controlled Business List
@@ -76,7 +76,7 @@ Alongside the market-entry / statute catalogs, this repo carries a
 `com-junkawasaki/root`) — national dishes, protected products, beverages,
 crafts, festivals and heritage sites for Laos:
 
-- `src/culture/facts.cljc` — the catalog, source of truth (keyed by
+- `src/culture/facts.cljk` — the catalog, source of truth (keyed by
   uppercase ISO3, mirroring `statute.facts`).
 - `schema/culture.edn` — DataScript schema.
 - `data/culture-tx.edn` — derived DataScript tx-data (regenerated from
