@@ -11,7 +11,7 @@
   pipeline (unlike `cloud-itonami-iso3166-cub`): a Controlled Business
   List investment application gets a 25-working-day decision (Art.36);
   a concession-business MOU/feasibility-study application gets a
-  65-working-day decision (Art.46) (see `src/marketentry/facts.cljc`)
+  65-working-day decision (Art.46) (see `src/marketentry/facts.cljk`)
 - Department of Enterprise Management (Ministry of Industry and
   Commerce) enterprise registration -- required for both Controlled-List
   and not-listed general businesses (Law on Enterprise, cross-referenced
